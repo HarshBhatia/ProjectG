@@ -1,5 +1,7 @@
 package com.example.harsh.projectg;
 
+import com.example.harsh.projectg.models.GiphyResponse;
+
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
@@ -13,5 +15,6 @@ public interface GiphyInterface {
 
     @GET("search")
     Call<GiphyResponse> searchGifs(@Query("api_key") String api_key, @Query("q") String search_keywords);
+
 
 }

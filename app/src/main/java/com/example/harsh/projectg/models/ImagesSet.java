@@ -1,4 +1,4 @@
-package com.example.harsh.projectg;
+package com.example.harsh.projectg.models;
 
 public class ImagesSet {
     public GiphyImage fixed_height;

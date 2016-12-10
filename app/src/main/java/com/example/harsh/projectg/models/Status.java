@@ -1,4 +1,4 @@
-package com.example.harsh.projectg;
+package com.example.harsh.projectg.models;
 
 /**
  * Created by harsh on 10/12/16.

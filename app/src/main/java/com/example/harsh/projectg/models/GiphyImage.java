@@ -1,4 +1,4 @@
-package com.example.harsh.projectg;
+package com.example.harsh.projectg.models;
 
 import android.os.Parcel;
 import android.os.Parcelable;
